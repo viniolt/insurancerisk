@@ -1,5 +1,5 @@
 # Automobile Insurance Risk Prediction
-This repository contains files and code for cleaning and analyzing the Automobile dataset from <a href="https://archive.ics.uci.edu/dataset/10/automobile">Jeffrey Schlimmer</a>. The project uses the K-Nearest Neighbors (KNN) algorithm to predict the insurance risk of each car for an insurance company, achieving approximately 81% prediction accuracy.
+This repository contains files and code for cleaning and analyzing the Automobile dataset from <a href="https://archive.ics.uci.edu/dataset/10/automobile">Jeffrey Schlimmer</a>. The project uses the K-Nearest Neighbors (KNN) algorithm to predict the insurance risk of each car for an insurance company, achieving approximately 83% prediction accuracy.
 
 # Files in the Repository
 **Automobile_cleaned.csv:** A cleaned version of the Automobile dataset. All null values have been removed, and string values have been converted to numerical values for compatibility with machine learning models.
